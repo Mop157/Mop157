@@ -17,7 +17,7 @@
 <h2 style="font-size: 1.8em; color: #444; border-bottom: 2px solid #ccc; padding-bottom: 5px;">Контакти</h2>
 <div class="social-links" style="margin-top: 10px; font-size: 1.1em;">
     <a href="https://t.me/@Mop_157" target="_blank"><img src="https://img.shields.io/badge/telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://discord.com/users/1299420297014808697" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://discord.com/users/670163392979271710" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 <h2 style="font-size: 1.8em; color: #444; border-bottom: 2px solid #ccc; padding-bottom: 5px;">Статистика</h2>
