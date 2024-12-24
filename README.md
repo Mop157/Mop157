@@ -7,7 +7,8 @@
 <ul style="line-height: 1.8; font-size: 1.1em; color: #555; margin-left: 20px;">
     <li><strong>Мови програмування:</strong> TypeScript, JavaScript, Python</li>
     <li><strong>Фреймворки:</strong> Express, Nest.js</li>
-    <li><strong>Інструменти:</strong> WebSocket, REST API, Docker</li>
+    <li><strong>Технології:</strong> WebSocket, REST API</li>
+    <li><strong>Інструменти:</strong> Docker</li>
     <li><strong>Бази даних:</strong> MongoDB, SQLite</li>
     <li><strong>Discord-боти:</strong> розробка, інтеграція API, модульна структура</li>
     <li><strong>Кібербезпека:</strong> аналіз вразливостей, трафіку та мереж</li>
