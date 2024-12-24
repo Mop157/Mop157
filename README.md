@@ -3,7 +3,7 @@
     <p>Розробляю API, мікросервіси, Discord-ботів і працюю над кібербезпекою. Люблю вирішувати складні задачі та вдосконалювати свої навички.</p>
 </div>
 
-<details><summary><h2>Мої навички</h2></summary>
+<details><summary><h2>Навички</h2></summary>
 <ul>
     <li><strong>Мови програмування:</strong> TypeScript, JavaScript, Python</li>
     <li><strong>Фреймворки:</strong> Express, Nest.js</li>
