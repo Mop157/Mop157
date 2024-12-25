@@ -11,8 +11,10 @@
         <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <h3>Фреймворки</h3>
+        <img src="https://img.shields.io/badge/discord.py-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord.py">
         <img src="https://img.shields.io/badge/express-000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express">
         <img src="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js">
+        <img src="https://img.shields.io/badge/discord.js-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord.js">
     <h3><strong>Технології</strong></h3>
         <img src="https://img.shields.io/badge/websocket-000000.svg?&style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket">
         <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API">
