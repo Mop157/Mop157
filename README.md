@@ -14,19 +14,18 @@
     <li><strong>Кібербезпека:</strong> аналіз вразливостей, трафіку та мереж</li>
 </ul></details>
 
-<h2>Контакти</h2>
-<div>
-    <a href="https://t.me/Mop_157" target="_blank"><img src="https://img.shields.io/badge/telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://discord.com/users/670163392979271710" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
-
-
 <details>
 <summary><h2>Статистика</h2></summary>
     <img src="https://github-readme-stats.vercel.app/api?username=Mop157&show_icons=true&theme=radical" width="%100" height="200px" alt="Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mop157&layout=compact&theme=radical" width="%100" height="150px" alt="Languages" />
     <img src="https://github-profile-trophy.vercel.app/?username=Mop157&theme=monokai" width="%100" height="150px" alt="Stats" />
 </details>
+
+<h2>Контакти</h2>
+<div>
+    <a href="https://t.me/Mop_157" target="_blank"><img src="https://img.shields.io/badge/telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://discord.com/users/670163392979271710" target="_blank"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
 
 <div>
     <h3>P.S.</h3>
