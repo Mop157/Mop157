@@ -32,7 +32,7 @@
 <details>
 <summary><h2>Статистика</h2></summary>
     <img src="https://github-readme-stats.vercel.app/api?username=Mop157&show_icons=true&theme=radical" width="%100" height="200px" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mop157&layout=compact&theme=radical" width="%100" height="150px" alt="Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mop157&layout=compact&theme=radical&exclude_repo=bot" width="100%" height="150px" alt="Languages" />
     <img src="https://github-profile-trophy.vercel.app/?username=Mop157&theme=monokai" width="%100" height="150px" alt="Stats" />
 </details>
 
@@ -44,7 +44,7 @@
 
 <div>
     <h3>P.S.</h3>
-    <p>Типу відкритий до співпраці. Напишіть мені, якщо маєте цікаві ідеї чи проєкти.</p>
+    <p style="color:#D08770;">Типу відкритий до співпраці. Напишіть мені, якщо маєте цікаві ідеї чи проєкти.</p>
     <p>Найчастіше знаходжуся у Discord!</p>
 </div>
 </div>
